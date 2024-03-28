@@ -16,6 +16,9 @@ Combinations (in Itertools library) to generate combinations of values of variab
 No ML algorithms like Scikit-learn, PyTorch or TensorFlow has been used. This is intentional,
 so that every step of the process is coded for better understanding of the algorithm.
 
+## Methodology
+I have 
+
 ## Issues
 There are currently **three** issues, which I'd like the learner to solve for better understanding
 of the algorithm by practical experience. The issues can be found in the issues section
